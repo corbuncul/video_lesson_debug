@@ -9,5 +9,4 @@ def get_second_number():
 def multiplier():
     first_number = get_first_number()
     second_number = get_second_number()
-    product_of_numbers = first_number * second_number
-    return product_of_numbers
+    return first_number * second_number
